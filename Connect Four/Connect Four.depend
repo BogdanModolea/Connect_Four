@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1578222301 source:d:\informatica\connect four\main.cpp
+	<bits/stdc++.h>
+	"rules.h"
+
+1578222633 d:\informatica\connect four\rules.h
+	<bits/stdc++.h>
+
