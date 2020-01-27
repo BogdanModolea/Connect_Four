@@ -6,3 +6,34 @@
 1578222633 d:\informatica\connect four\rules.h
 	<bits/stdc++.h>
 
+1580097187 source:c:\users\eldav\documents\github\repos\connect_four\connect four\main.cpp
+	<bits/stdc++.h>
+	<windows.h>
+	"rules.h"
+	"ConnectFour.h"
+
+1580096481 c:\users\eldav\documents\github\repos\connect_four\connect four\rules.h
+
+1580095739 source:c:\users\eldav\documents\github\repos\connect_four\connect four\src\textcolor.cpp
+
+1580096984 c:\users\eldav\documents\github\repos\connect_four\connect four\include\connectfour.h
+	<bits/stdc++.h>
+	<windows.h>
+
+1580095740 c:\users\eldav\documents\github\repos\connect_four\connect four\include\textcolor.h
+
+1580096369 source:c:\users\eldav\documents\github\repos\connect_four\connect four\src\connectfour.cpp
+	"ConnectFour.h"
+
+1580097774 source:c:\users\eldav\documents\github\repos\connect_four_despel\connect four\main.cpp
+	<bits/stdc++.h>
+	<windows.h>
+	"ConnectFour.h"
+
+1580096984 c:\users\eldav\documents\github\repos\connect_four_despel\connect four\include\connectfour.h
+	<bits/stdc++.h>
+	<windows.h>
+
+1580096369 source:c:\users\eldav\documents\github\repos\connect_four_despel\connect four\src\connectfour.cpp
+	"ConnectFour.h"
+
